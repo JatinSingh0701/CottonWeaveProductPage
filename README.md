@@ -4,7 +4,7 @@ This is a simple HTML and CSS project for showcasing a cotton weave product. The
 
 ## Preview
 
-![Product Preview](![Alt text](assets/design.jpg))
+![Product Preview](https://jatinsingh0701.github.io/CottonWeaveProductPage/)
 
 ## Features
 
@@ -27,7 +27,6 @@ git clone https://github.com/JatinSingh0701/CottonWeaveProductPage.git
 ## Structure
 
 - `index.html`: The main HTML file that defines the structure and content of the webpage.
-  
 - `assets/style.css`: The CSS file that provides styling for the HTML elements.
 
 ## Usage
@@ -54,4 +53,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-*Note: Replace `link-to-preview-image` with the actual link to an image showcasing your project.*
+_Note: Replace `link-to-preview-image` with the actual link to an image showcasing your project._
