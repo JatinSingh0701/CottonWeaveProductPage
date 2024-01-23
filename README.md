@@ -21,8 +21,7 @@ This is a simple HTML and CSS project for showcasing a cotton weave product. The
 To view the project, simply open the `index.html` file in a web browser.
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/JatinSingh0701/CottonWeaveProductPage.git
 ```
 
 ## Structure
